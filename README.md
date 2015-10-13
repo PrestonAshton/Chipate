@@ -1,6 +1,7 @@
 #Chipate
+##A cool Chip-8 emulator!
 
-##Requires the Propitious (permanent) and SDL2 (temporary) libraries. Soon SDL2 will be removed.
+Requires the Propitious (permanent) and SDL2 (temporary) libraries. Soon SDL2 will be removed.
 The .lib for Propitious can be found here:
 	http://puu.sh/kJbLJ/e80a9499e9.lib
 The .dll for Propitious can be found here:
